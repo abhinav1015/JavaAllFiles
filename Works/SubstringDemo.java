@@ -5,7 +5,7 @@ public class SubstringDemo {
         String subname2 = name.substring(7, 8);
         
         
-        // System.out.println(subname1.toUpperCase() + name.substring(1, 5) + " " + subname2.toUpperCase() + name.substring(8));
-        System.out.println(subname1.toUpperCase().concat(name));
+        System.out.println(subname1.toUpperCase() + name.substring(1, 5) + " " + subname2.toUpperCase() + name.substring(8));
+        // System.out.println(subname1.toUpperCase().concat(name));
     }
 }
