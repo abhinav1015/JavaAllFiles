@@ -9,7 +9,7 @@ public class Palindrome{
         StringBuilder str1 = strObj1.reverse();
         System.out.println(str1);
         
-        String result = (name.equals(str1)) ? "Palindrome":"Not Palindrome";
-        System.out.println(result);
+    //    String result = (name.equals(str1)) ? "Palindrome":"Not Palindrome";
+       // System.out.println(result);
     }
 }
