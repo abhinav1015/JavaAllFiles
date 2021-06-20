@@ -13,7 +13,7 @@ public class Agrs3input {
 
         }else if(b >c){
             System.out.println(b + " is greater");
-        }sdaf
+        }
         else{
             System.out.println(c + " is greater");
         }
