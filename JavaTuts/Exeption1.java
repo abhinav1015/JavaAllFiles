@@ -16,6 +16,6 @@ public class Exeption1{
             System.out.println(e.getMessage());
         }
         System.out.println("Hellos");
-        
+        sc.close();
     }
 }

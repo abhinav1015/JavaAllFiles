@@ -20,7 +20,7 @@ public class DowhileLoop{
                 System.out.println("Your symbol is "+ symbol + " and grade is A+");
             }
             if(percentage >= 0 && percentage <= 50){
-                System.out.println("Your symbol is "+ symbol + " and grade is A+++");
+                System.out.println("Your symbol is "+ symbol + " and grade is A");
             }
             // sc.nextInt();
             System.out.println("Do you want to continue(y/n): ");
